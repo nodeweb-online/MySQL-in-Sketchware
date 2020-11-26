@@ -4,7 +4,7 @@
 //Your server name, it will be same for all 000webhost accounts
 $servername = "your_servername";
 
-//Your DB username
+//Your DB dusername
 $username = "your_database_username";
 
 //Your DB password
